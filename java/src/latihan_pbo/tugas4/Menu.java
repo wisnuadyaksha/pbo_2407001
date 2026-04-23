@@ -1,4 +1,4 @@
-package tugas4;
+package latihan_pbo.tugas4;
 
 public class Menu {
     protected String nama;

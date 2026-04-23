@@ -1,4 +1,4 @@
-package tugas4;
+package latihan_pbo.tugas4;
 
 public class Main {
     public static void main(String[] args) {

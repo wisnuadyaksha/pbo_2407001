@@ -1,4 +1,4 @@
-package tugas4;
+package latihan_pbo.tugas4;
 
 public class MenuItem extends Menu {
     private int jumlah;
